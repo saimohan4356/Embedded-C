@@ -20,5 +20,5 @@ embedded project
 
 [!build Badge](https://github.com/saimohan4356/Embedded-C/blob/main/.Github/Workflow/Compile.yml/badge.svg)
 
-[!Code Quality Score](https://www.code-inspector.com/project/28883/score/svg)
+[!Code](https://www.code-inspector.com/project/28883/score/svg)
 
