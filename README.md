@@ -22,4 +22,4 @@ embedded project
 
 ![grade Badge](https://www.code-inspector.com/project/28883/status/svg)
 
-![build Badge](https://github.com/saimohan4356/Embedded-C/blob/main/.Github/Workflow/Compile.yml/badge.svg)
+![Build Badges](https://github.com/saimohan4356/Embedded-C/blob/main/.Github/Workflow/Compile.yml/badge.svg)
