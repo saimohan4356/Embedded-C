@@ -1,4 +1,6 @@
 # Embedded-C
+
+https://www.code-inspector.com/project/28883/score/svg
 embedded project
 
 1:Button Sensor will check the passenger is sited or not
@@ -19,4 +21,3 @@ embedded project
 
 [!build Badge](https://github.com/saimohan4356/Embedded-C/blob/main/.Github/Workflow/Compile.yml/badge.svg)
 
-https://www.code-inspector.com/project/28883/score/svg
