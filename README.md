@@ -11,7 +11,7 @@ embedded project
 
 5.Heater will check the heater button is ON.
 
-6.Temp to CAN shows the value of temperature gone over protocol
+6.Temp to can shows the value of temperature gone over protocol
 
 
 
